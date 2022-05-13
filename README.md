@@ -16,8 +16,10 @@ I've includes Bootstraps components with (Tooltips) and without (Cards, nav, for
 
 
 #Link historias de usuario
+https://docs.google.com/document/d/11PCEkd9zbpKPgA6fuPaVmRzrnqNbz2Njm-gCgmu6W10/edit?usp=sharing
 
 #Link board en trello
+https://trello.com/invite/b/Zh2A8DlY/b54d6ad8526c53ed4f9dbdc1d42b9998/conecta
 
 #Link modelo físico
 https://drive.google.com/file/d/1m1_tyX8Vth4JUm4pdpd2brkLEzCNv_Y7/view?usp=sharing
