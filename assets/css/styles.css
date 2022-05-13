@@ -55,6 +55,11 @@ h3 {
 
 /*section presentacion*/
 
+.section-text {
+    max-width: 100ch;
+    margin: 0 auto;
+}
+
 .tooltip-inner {
     background-color: #0dcaf0;
     box-shadow: 0px 0px 4px black;
