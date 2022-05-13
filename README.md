@@ -13,3 +13,12 @@ I've includes Bootstraps components with (Tooltips) and without (Cards, nav, for
 
 - [Bootstrap CSS Framework](https://getbootstrap.com/): Version 5.1.3
 - [JQuery JS Library](https://jquery.com/): Version 3.6.0
+
+
+#Link historias de usuario
+
+#Link board en trello
+
+#Link modelo físico
+https://drive.google.com/file/d/1m1_tyX8Vth4JUm4pdpd2brkLEzCNv_Y7/view?usp=sharing
+
