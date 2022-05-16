@@ -1,5 +1,10 @@
 # conecta
 
+## Team
+* Alejandra Vilches
+* Nicolas Kufeke
+* Yanara Catrilelbun
+
 ## Hito 1 e Hito 2
 
 ### Links documents included in 'Hito1'
